@@ -11,22 +11,22 @@ namespace ZSCY_Win10.Resource
         /// <summary>
         /// 原创重邮接口，参数page size
         /// </summary>
-        public const string yuanchuang_api = "http://yangruixin.com/test/apiForText.php?RequestType=natureCQUPT";
+        public const string yuanchuang_api = "http://hongyan.cqupt.edu.cn/welcome/2017/api/apiForText.php?RequestType=natureCQUPT";
 
         /// <summary>
         /// 最美重邮接口，参数page size
         /// </summary>
-        public const string zuimei_api = "http://yangruixin.com/test/apiForText.php?RequestType=beautyInCQUPT";
+        public const string zuimei_api = "http://hongyan.cqupt.edu.cn/welcome/2017/api/apiForText.php?RequestType=beautyInCQUPT";
 
         /// <summary>
         /// 优秀教师接口，参数page size
         /// </summary>
-        public const string youxiujiaoshi_api = "http://yangruixin.com/test/apiForText.php?RequestType=excellentTech";
+        public const string youxiujiaoshi_api = "http://hongyan.cqupt.edu.cn/welcome/2017/api/apiForText.php?RequestType=excellentTech";
 
         /// <summary>
         /// 优秀学子接口，参数page size
         /// </summary>
-        public const string youxiuxuezi_api = "http://yangruixin.com/test/apiForText.php?RequestType=excellentStu";
+        public const string youxiuxuezi_api = "http://hongyan.cqupt.edu.cn/welcome/2017/api/apiForText.php?RequestType=excellentStu";
         /// <summary>
         /// 宿舍情况接口，参数page size
         /// </summary>
@@ -46,11 +46,11 @@ namespace ZSCY_Win10.Resource
         /// <summary>
         /// 军训图片接口，参数page size
         /// </summary>
-        public const string jinxuntupian_api = "http://yangruixin.com/test/apiForGuide.php?RequestType=MilitaryTrainingPhoto";
+        public const string jinxuntupian_api = "http://hongyan.cqupt.edu.cn/welcome/2017/api/apiForGuide.php?RequestType=MilitaryTrainingPhoto";
         /// <summary>
         /// 军训视频接口，参数page size
         /// </summary>
-        public const string junxunshipin_api = "http://yangruixin.com/test/apiForGuide.php?RequestType=MilitaryTrainingVideo";
+        public const string junxunshipin_api = "http://hongyan.cqupt.edu.cn/welcome/2017/api/apiForGuide.php?RequestType=MilitaryTrainingVideo";
 
         public const string AddRemindApi = @"http://hongyan.cqupt.edu.cn/cyxbsMobile/index.php/Home/Person/addTransaction";
         public const string GetRemindApi = @"http://hongyan.cqupt.edu.cn/cyxbsMobile/index.php/Home/Person/getTransaction";

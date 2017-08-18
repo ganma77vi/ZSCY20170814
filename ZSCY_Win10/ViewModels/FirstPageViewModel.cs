@@ -29,7 +29,7 @@ namespace ZSCY_Win10.ViewModels
             {
                 if (_page_width - 30 > 500.0)
                 {
-                    return 350;
+                    return 500;
                 }
                 return _page_width - 30;
             }
